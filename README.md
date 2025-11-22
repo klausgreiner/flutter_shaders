@@ -1,4 +1,1 @@
-# flutter_shadders
-
-A new Flutter project.
-# flutter_shaders
+Trying out flutter/runtime_effect.glsl and custom painter to render some shaders!
