@@ -13,3 +13,6 @@ Future ideias:
  - Check if there's any solution to custom painter without cheating (You could calculate each loop once and just save the values and show it. Basically generating frames of a video.)
  - Implement other shaders;
  - implement export to mp4 feature for each fragment;
+
+
+All fragments were ported to flutter from this amazing guy: https://x.com/xordev
